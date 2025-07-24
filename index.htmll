@@ -1,0 +1,12 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head><title>Attendance Form</title></head>
+<body>
+  <h2>Student Attendance Form</h2>
+  <form>
+    <input type="text" name="student" placeholder="Enter Name" required>
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
